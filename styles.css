@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(189, 235, 189);
+   
 }
 
 .nav {
@@ -133,7 +133,7 @@ h2 {
 .flex {
     width: 280px;
     height: 286px;
-    background-color: white; 
+    background-color: rgb(189, 235, 189);
     padding: 50px 0 0 20px;
     
 }
